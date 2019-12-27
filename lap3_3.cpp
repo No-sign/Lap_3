@@ -1,11 +1,11 @@
-#include <bits/stdc++.h>
+#include <iostream>
 
 using namespace std; 
-float x=2,sum;
+float x=6,sum;
 int main(){
    //ios::sync_with
     
-    while(x<=69){
+    while(x<=19){
     sum=sum+(1/x);
     x++;
 }
